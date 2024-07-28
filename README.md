@@ -1,2 +1,2 @@
 # deeplearning_projects
-my deeplearning_projects  of tehran university course
+these are my projects of tehran university in deeplearning_course
